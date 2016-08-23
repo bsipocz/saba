@@ -4,7 +4,7 @@ We will start by doing some necessary imports
 
 .. code-block:: ipython
 
-        from astropy.modeling.astro_sherpa import SherpaFitter
+        from saba import SherpaFitter
         from astropy.modeling.models import Gaussian2D
         import numpy as np
 
